@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="B:\java\jdk1.8.0_341" version="1.8.0_341">
+<bootpath>
+<entry path="B:\java\jdk1.8.0_341\jre\lib\resources.jar"/>
+<entry path="B:\java\jdk1.8.0_341\jre\lib\rt.jar"/>
+<entry path="B:\java\jdk1.8.0_341\jre\lib\jsse.jar"/>
+<entry path="B:\java\jdk1.8.0_341\jre\lib\jce.jar"/>
+<entry path="B:\java\jdk1.8.0_341\jre\lib\charsets.jar"/>
+<entry path="B:\java\jdk1.8.0_341\jre\lib\jfr.jar"/>
+<entry path="B:\java\jdk1.8.0_341\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="B:\java\jdk1.8.0_341\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="B:\java\jdk1.8.0_341\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

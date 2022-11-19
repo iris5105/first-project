@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Nov 19 23:47:26 KST 2022
+org.eclipse.jst.jee.server\:BootStrapTest=B\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\BootStrapTest
+org.eclipse.jst.jee.server\:project_kth=B\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\project_kth

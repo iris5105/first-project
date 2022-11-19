@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="RepositorySelectionPage.lastRepository" value="https://192.168.194.47/svn/ezen.project"/>
+	<item key="DirectorySelectionPage.lastParent_https://192.168.194.47/svn/ezen.project" value=""/>
+	<item key="CommitDialog.location.x" value="360"/>
+	<item key="CommitDialog.location.y" value="0"/>
+	<item key="CommitDialog.size.x" value="1200"/>
+	<item key="CommitDialog.size.y" value="1040"/>
+	<item key="CommitDialog.weights.0" value="500"/>
+	<item key="CommitDialog.weights.1" value="500"/>
+	<item key="DirectorySelectionPage.lastParent_https://192.168.194.47/svn/ezen.project/project" value=""/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Revision" value="183"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Date" value="455"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Author" value="364"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Comment" value="910"/>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://192.168.194.47/svn/ezen.project/project"/>
+			<item value="https://192.168.194.47/svn/ezen.project/slaver"/>
+			<item value="https://192.168.194.47/svn/ezen.project"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SynchronizeResourceSelectionDialog">
+		<item key="SynchronizeResourceSelectionDialog.STORE_WORKING_SETS" value=""/>
+	</section>
+	<section name="CommitWizard">
+		<item key="VWeight1" value="500"/>
+		<item key="VWeight2" value="500"/>
+		<item key="ShowCompare" value="false"/>
+	</section>
+</section>
